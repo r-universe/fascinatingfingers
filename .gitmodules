@@ -8,6 +8,3 @@
 [submodule "PhilipsHue"]
 	path = PhilipsHue
 	url = https://gitlab.com/fascinatingfingers/philipshue
-[submodule "ZillowR"]
-	path = ZillowR
-	url = https://gitlab.com/fascinatingfingers/zillowr
